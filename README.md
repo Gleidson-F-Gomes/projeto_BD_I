@@ -1,3 +1,3 @@
-# pj_banco_de_dados_I
-# trabalho_banco_de_dados
-# projeto_BD_I
+"Trabalho final - BANCO DE DADOS I"
+
+SANTANDER CODERS 2024 - DATA SCIENCE
